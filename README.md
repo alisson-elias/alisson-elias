@@ -1,10 +1,10 @@
 ## Welcome, I'm Alisson
 
-- I'm studyng C#
-  - studyng Unity
-  - studyng Python
-  - studyng HTML
-  - studyng CSS
+- I'm learning C#
+  - learning Unity
+  - learning Python
+  - learning HTML
+  - learning CSS
 
 <div style="display: inline_block"><br>
 
