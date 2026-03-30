@@ -7,7 +7,7 @@
   - learning CSS
 
 
-![Metrics](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/main/github-metrics.svg)
+
 
 <div style="display: inline_block"><br>
 
